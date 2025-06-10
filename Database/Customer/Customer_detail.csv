@@ -1,0 +1,37 @@
+Buyer Name,Product ID,Product Name,Category,Brand,Price,Unit,Stock
+b@gmail.com,1,Butter,Dairy,Gamma,4.72,block,1
+b@gmail.com,2,Shampoo,Personal Care,Juno,5.83,bottle,1
+b@gmail.com,1,Salt,Condiment,Echo,1.74,kg,1
+b@gmail.com,2,Tofu,Meat Alternative,Echo,117.84,block,24
+b@gmail.com,1,Salt,Condiment,Echo,52.20,kg,30
+n@gmail.com,1,Corn,Vegetable,Halo,3.61,kg,1
+n@gmail.com,2,Hot Sauce,Condiment,Charlie,2.36,bottle,1
+n@gmail.com,3,Soy Sauce,Condiment,Alpha,25.12,bottle,8
+b@gmail.com,1,Broccoli,Vegetable,Echo,9.10,kg,2
+b@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+b@gmail.com,1,Broccoli,Vegetable,Echo,4.55,kg,1
+b@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Glue Stick,Stationery,Echo,4.34,tube,2
+n@gmail.com,2,Oreo,Snacks,Gamma,4.88,pack,2
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Hot Sauce,Condiment,Charlie,236.00,bottle,100
+n@gmail.com,2,Charger,Electronics,Bravo,563.00,unit,100
+n@gmail.com,3,Notebook,Stationery,Halo,392.00,unit,100
+n@gmail.com,1,Oreo,Snacks,Gamma,2.44,pack,1
+n@gmail.com,2,Wipes,Personal Care,Gamma,4.01,pack,1
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Notebook,Stationery,Halo,19.60,unit,5
+n@gmail.com,2,Oreo,Snacks,Gamma,122.00,pack,50
+nan@gmail.com,2025-6-6 15:53:34,1,Soap,Personal Care,Halo,10.75,bar,5
+nan@gmail.com,2025-6-6 15:53:34,2,Hot Sauce,Condiment,Charlie,2.36,bottle,1
+n@gmail.com,1,Broccoli,Vegetable,Echo,9.10,kg,2
+n@gmail.com,2,Oats,Breakfast,Bravo,11.76,bag,3
+n@gmail.com,1,Pickles,Condiment,Echo,9.54,jar,3
+n@gmail.com,2,Lightbulb,Electronics,Foxtrot,13.98,unit,3
+n@gmail.com,1,Apples,Fruit,Bravo,3.49,kg,1
+n@gmail.com,1,Apples,Fruit,Bravo,13.96,kg,4

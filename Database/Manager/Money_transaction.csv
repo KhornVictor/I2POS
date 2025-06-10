@@ -1,0 +1,24 @@
+status,customer,amount,date,cashier
+[+],n@gmail.com,3.49,2025-6-4 10:56:29,lara@gmail.com
+[+],n@gmail.com,3.49,2025-6-4 10:56:49,lara@gmail.com
+[+],n@gmail.com,3.49,2025-6-4 10:59:28,m@gmail.com
+[-],Ginger,33.50,2025-6-4 12:27:13,r@gmail.com
+[-],Ginger,0.00,2025-6-4 12:38:18,r@gmail.com
+[-],Jamie,54.00,2025-6-4 12:53:37,r@gmail.com
+[-],Jamie,12.96,2025-6-4 15:56:8,r@gmail.com
+[+],n@gmail.com,1191.00,2025-6-4 16:6:30,m@gmail.com
+[+],n@gmail.com,6.45,2025-6-4 18:52:9,m@gmail.com
+[+],n@gmail.com,3.49,2025-6-4 18:54:13,lara@gmail.com
+[-],Soda,99.50,2025-6-4 18:57:16,r@gmail.com
+[-],Oreo,2.20,2025-6-4 19:6:38,r@gmail.com
+[-],Ginger,60.30,2025-6-4 19:15:29,r@gmail.com
+[-],Relish Jar,4.64,2025-6-4 19:16:9,r@gmail.com
+[-],Jamie,36.94,2025-6-5 11:0:28,r@gmail.com
+[+],n@gmail.com,141.60,2025-6-5 11:34:29,m@gmail.com
+[-],Ginger,6.03,2025-6-5 16:19:46,r@gmail.com
+[-],Mustard,206.10,2025-6-6 10:53:40,r@gmail.com
+[-],Notebook,17.64,2025-6-6 10:57:51,r@gmail.com
+[+],n@gmail.com,20.86,2025-6-6 18:51:7,m@gmail.com
+[+],n@gmail.com,23.52,2025-6-6 18:51:33,m@gmail.com
+[+],n@gmail.com,3.49,2025-6-9 9:12:5,m@gmail.com
+[+],n@gmail.com,13.96,2025-6-9 9:12:37,m@gmail.com
