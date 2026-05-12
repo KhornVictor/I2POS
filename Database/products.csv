@@ -1,7 +1,7 @@
 ID,Name,Category,Brand,Price,Unit,Stock
-1,Apples,Fruit,Bravo,3.49,kg,130
+1,Apples,Fruit,Bravo,3.49,kg,100
 2,Bread,Meat,Papa,2.55,kg,169
-3,Broccoli,Vegetable,Echo,4.55,kg,66
+3,Broccoli,Vegetable,Echo,4.55,kg,60
 4,Butter,Dairy,Gamma,4.72,block,66
 5,Cable,Electronics,Alpha,5.36,unit,146
 6,Carrots,Vegetable,Foxtrot,3.28,kg,101
@@ -54,7 +54,7 @@ ID,Name,Category,Brand,Price,Unit,Stock
 53,Pen,Stationery,Gamma,1.95,unit,135
 54,Peppers,Vegetable,Alpha,3.73,kg,151
 55,Pineapple,Fruit,Halo,4.64,unit,93
-56,Pickles,Condiment,Echo,3.18,jar,73
+56,Pickles,Condiment,Echo,3.18,jar,50
 57,Plum,Fruit,Foxtrot,3.33,kg,98
 58,Pork,Meat,Delta,9.12,kg,118
 59,Potatoes,Vegetable,Charlie,3.16,kg,152
@@ -65,7 +65,7 @@ ID,Name,Category,Brand,Price,Unit,Stock
 64,Salt,Condiment,Echo,1.74,kg,162
 65,Sausage,Meat,Alpha,7.22,pack,135
 66,Sauce,Condiment,Delta,2.63,jar,116
-67,Shampoo,Personal Care,Juno,5.83,bottle,87
+67,Shampoo,Personal Care,Juno,5.83,bottle,81
 68,Shrimp,Meat,Gamma,12.55,kg,149
 69,Soap,Personal Care,Halo,2.15,bar,130
 70,Soda,Beverage,Echo,1.99,can,50
@@ -75,7 +75,7 @@ ID,Name,Category,Brand,Price,Unit,Stock
 74,Syrup,Breakfast,Alpha,4.52,bottle,101
 75,Tape,Stationery,Juno,1.89,roll,158
 76,Tea,Beverage,Charlie,2.87,box,170
-77,Tofu,Meat Alternative,Echo,4.91,block,121
+77,Tofu,Meat Alternative,Echo,4.91,block,116
 78,Tomatoes,Vegetable,Delta,3.45,kg,106
 79,Toothpaste,Personal Care,Gamma,3.96,tube,139
 80,Trail Mix,Snacks,Foxtrot,4.24,bag,107
@@ -87,11 +87,12 @@ ID,Name,Category,Brand,Price,Unit,Stock
 86,Tissues,Personal Care,Alpha,2.33,box,102
 87,Granola,Breakfast,Juno,3.61,bag,126
 88,Oreo,Snacks,Gamma,2.44,pack,62
-89,Hot Sauce,Condiment,Charlie,2.36,bottle,19
+89,Hot Sauce,Condiment,Charlie,2.36,bottle,9
 90,Soy Sauce,Condiment,Alpha,3.14,bottle,90
 91,Charger,Electronics,Bravo,5.63,unit,68
 92,Notebook,Stationery,Halo,3.92,unit,100
 93,Glue Stick,Stationery,Echo,2.17,tube,115
 94,Relish Jar,Condiment,Gamma,2.58,jar,130
-95,Ham,Snacks,Jecob,1.08,package,100
+95,Ham,Snacks,Jecob,1.08,package,200
 96,Ginger,Meat,Hanzi,0.67,kg,210
+97,Wrtrwt,Meat,324,0.00,,100
